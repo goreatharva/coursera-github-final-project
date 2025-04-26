@@ -1,8 +1,8 @@
 # Part 1 - GitHub UI
 
-## Simple Interest Calculator Courseraa
+## Simple Interest Calculator Coursera
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A calculator that calculates simple interest given principal, annual rate of interest and period in years.
 
 ```
 Input:
